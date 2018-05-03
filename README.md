@@ -1,2 +1,2 @@
 # gravity
-The Gravity game
+The Gravity game. How ro move without gravity? This game simulates how hard is to move without gravity. The alien ship can fire bombs. Because of momentum conservation principle the bulet goes in on way but ship is moveing in other side. The main rule is to keep alien ship out of the borders. By mouse clicking the ship fire bomb. The force (initial speed) of bomb is depend on distance etween ship and mouse pointer. 
